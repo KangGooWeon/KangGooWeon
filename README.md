@@ -3,9 +3,9 @@
 사용자 입장에서 개발하고 꾸준히 정진하는 프론트엔드 개발자가 되고 싶은 주니어 개발자입니다!
 
 ## Blog
- &nbsp; <a href="https://dkwjdi.tistory.com">
+ &nbsp; <a href="https://gooweon.tistory.com">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://dkwjdi.tistory.com"
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://gooweon.tistory.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
