@@ -31,7 +31,7 @@
 
 ## :bulb: Algorithm
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=fkdldjs487)](https://solved.ac/fkdldjs487)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=fkdldjs487@naver.com)](https://solved.ac/fkdldjs487@naver.com)
 
 
 
