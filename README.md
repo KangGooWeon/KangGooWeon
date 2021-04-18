@@ -10,7 +10,7 @@
 </a>
 
 ## :pencil: Portfolio
-+ [포트폴리오]()
++ [포트폴리오](https://www.notion.so/Goo-Weon-Kang-55f5c99ca8b5426da16bac7990b8c31f)
 
 
 
