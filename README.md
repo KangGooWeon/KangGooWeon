@@ -1,6 +1,6 @@
 ### 👋 Hi there I'm GooWeon Kang
 
-사용자 입장에서 개발하고 꾸준히 정진하는 프론트엔드 엔지니어가 되고 싶은 주니어 개발자입니다!
+사용자 입장에서 개발하고 꾸준히 정진하는 프론트엔드 엔지니어가 되고 싶은 개발자입니다!
 
 ## ✏Blog
  &nbsp; <a href="https://gooweon.tistory.com">
